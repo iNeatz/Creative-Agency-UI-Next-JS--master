@@ -196,7 +196,7 @@ export const teamdata = [
 	{
 		id: 1,
 		title: 'Leon Shahi',
-		cover: '../images/t1.jpg',
+		cover: '../images/t1.jpeg',
 		post: 'FOUNDER, CEO',
 	},
 	{
@@ -214,7 +214,7 @@ export const teamdata = [
 	{
 		id: 4,
 		title: 'Aman Singh',
-		cover: '../images/t4.jpg',
+		cover: '../images/t4.jpeg',
 		post: 'GRAPHICS DESIGNER',
 	},
 	{
