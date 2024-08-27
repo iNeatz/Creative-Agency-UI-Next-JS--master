@@ -4,4 +4,4 @@ import Testimonial from "./Testimonial"
 import ShowCase from "./ShowCase"
 import Brand from "./Brand"
 
-export { Expertise, Banner, Testimonial, ShowCase, Brand, BlogCard }
+export { Expertise, Banner, Testimonial, ShowCase, Brand }
