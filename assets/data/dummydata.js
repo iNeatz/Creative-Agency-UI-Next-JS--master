@@ -41,23 +41,33 @@ export const expertise = [
 		desc: [
 			{ text: 'Social media marketing' },
 			{ text: 'Marketing campaigns' },
-			{ text: 'Markting management' },
+			{ text: 'Marketing management' },
 			{ text: 'SEO' },
 		],
 	},
 	{
 		id: 3,
-		title: 'Video Creation',
-		cover: '../images/e3.jpg',
+		title: 'Search Engine Optimization',
+		cover: '../images/b3.jpg',
 		desc: [
-			{ text: 'E-Commerce website design' },
-			{ text: 'WooCommerce' },
-			{ text: 'Content management' },
-			{ text: 'Hosting' },
+			{ text: 'Google search visibility' },
+			{ text: 'Increased traffic flow' },
+			{ text: 'Increased customer approach' },
 		],
 	},
 	{
 		id: 4,
+		title: 'Content Creation',
+		cover: '../images/e3.jpg',
+		desc: [
+			{ text: 'Videography' },
+			{ text: 'Photography' },
+			{ text: 'Content management' },
+			{ text: 'Social Media Banners' },
+		],
+	},
+	{
+		id: 5,
 		title: 'Logo Design',
 		cover: '../images/e4.jpg',
 		desc: [
@@ -233,7 +243,7 @@ export const teamdata = [
 		id: 6,
 		title: 'Utsav',
 		cover: '../images/t6.jpg',
-		post: 'PROGRAMMER',
+		post: 'EDITOR',
 	},
 	{
 		id: 7,
