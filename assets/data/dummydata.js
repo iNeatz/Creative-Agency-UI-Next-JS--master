@@ -100,7 +100,58 @@ export const testimonial = [
 export const showcase = [
 	{
 		id: 1,
-		title: 'Neon Lights',
+		title: 'Personal Portfolio',
+		cover: '../images/showcase/1.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://ineatz-portfolio.vercel.app/',
+	},
+	{
+		id: 2,
+		title: 'Showcase Static Website',
+		cover: '../images/showcase/2.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://ineatz-glisten-ai.vercel.app/',
+	},
+	{
+		id: 3,
+		title: 'Banking Frontend Design',
+		cover: '../images/showcase/3.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://zingy-cactus-4d6b48.netlify.app/',
+	},
+	{
+		id: 4,
+		title: 'Metaverse Exploration',
+		cover: '../images/showcase/4.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://metaversus-eta-nine.vercel.app/',
+	},
+	{
+		id: 5,
+		title: 'Online Shop',
+		cover: '../images/showcase/5.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://borcelle-store.vercel.app/',
+	},
+	{
+		id: 6,
+		title: 'Real Estate Frontend',
+		cover: '../images/showcase/6.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://glowing-hotteok-07e361.netlify.app/',
+	},
+	{
+		id: 7,
+		title: 'Pinterest Clone',
+		cover: '../images/showcase/7.png',
+		catgeory: 'WEB DEVELOPMENT',
+		path: 'https://shareme-ineatz.netlify.app/',
+	},
+]
+export const caseStudy = [
+	{
+		id: 1,
+		title: 'Profabrics Case Study',
 		cover: '../images/s1.jpg',
 		catgeory: 'DIGITAL MARKETING',
 	},
@@ -115,24 +166,6 @@ export const showcase = [
 		title: 'Smart Living',
 		cover: '../images/s3.jpg',
 		catgeory: 'WEBSITES',
-	},
-	{
-		id: 4,
-		title: 'Light Painting',
-		cover: '../images/s4.jpg',
-		catgeory: 'BRANDING	',
-	},
-	{
-		id: 5,
-		title: 'Ideabox',
-		cover: '../images/s5.jpg',
-		catgeory: 'BRANDING	',
-	},
-	{
-		id: 5,
-		title: 'VR Experience',
-		cover: '../images/s6.jpg',
-		catgeory: 'WEBSITES	',
 	},
 ]
 export const brand = [
