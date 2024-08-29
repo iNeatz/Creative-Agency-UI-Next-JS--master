@@ -70,31 +70,17 @@ export const expertise = [
 export const testimonial = [
 	{
 		id: 1,
-		name: 'Alexander Black',
-		cover: '../images/e1.jpg',
-		post: 'Seven consulting - CEO',
-		desc: 'Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!',
+		name: 'Prabhash Jha',
+		cover: '../images/s5.jpg',
+		post: 'Honeycomb - IT HEAD',
+		desc: 'Bulls Marketing took our online presence to the next level. Their expertise in SEO and content marketing boosted our traffic by 20% in just a few months. Highly recommend!',
 	},
 	{
 		id: 2,
-		name: 'Diana Green',
-		cover: '../images/e2.jpg',
-		post: 'Seven Arts - marketing manager',
-		desc: 'Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.',
-	},
-	{
-		id: 3,
-		name: 'Alexander Black',
-		cover: '../images/e3.jpg',
-		post: 'Seven consulting - CEO',
-		desc: 'Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!',
-	},
-	{
-		id: 4,
-		name: 'Diana Green',
-		cover: '../images/e4.jpg',
-		post: 'Seven Arts - marketing manager',
-		desc: 'Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.',
+		name: 'Harsh Agarwal',
+		cover: '../images/t8.jpg',
+		post: 'Horizonlair - Creative Manager',
+		desc: 'The team at Bulls Marketing is phenomenal! They revamped our social media strategy, and we’ve seen a huge increase in engagement and leads. Their creativity and dedication are unmatched.',
 	},
 ]
 export const showcase = [
@@ -151,47 +137,34 @@ export const showcase = [
 export const caseStudy = [
 	{
 		id: 1,
-		title: 'Profabrics Case Study',
+		title: 'Transforming Dental Clinics',
 		cover: '../images/s1.jpg',
-		catgeory: 'DIGITAL MARKETING',
+		catgeory: 'CASE STUDY',
+		path: '/pdf/1.pdf',
 	},
 	{
 		id: 2,
-		title: 'Futuristic Furniture',
-		catgeory: 'WEBSITES',
+		title: 'The Hospitality Industry in Nepal',
+		catgeory: 'CASE STUDY',
 		cover: '../images/s2.jpg',
+		path: '/pdf/2.pdf',
 	},
 	{
 		id: 3,
-		title: 'Smart Living',
+		title: 'Global Hospitality Industry',
 		cover: '../images/s3.jpg',
-		catgeory: 'WEBSITES',
+		catgeory: 'CASE STUDY',
+		path: '/pdf/3.pdf',
 	},
 ]
 export const brand = [
 	{
 		id: 1,
-		cover: '../images/l1.svg',
+		cover: '../images/l1.png',
 	},
 	{
 		id: 2,
-		cover: '../images/l2.svg',
-	},
-	{
-		id: 3,
-		cover: '../images/l3.svg',
-	},
-	{
-		id: 4,
-		cover: '../images/l4.svg',
-	},
-	{
-		id: 5,
-		cover: '../images/l5.svg',
-	},
-	{
-		id: 6,
-		cover: '../images/l6.svg',
+		cover: '../images/l2.png',
 	},
 ]
 export const blogdata = [
@@ -230,19 +203,19 @@ export const teamdata = [
 		id: 1,
 		title: 'Leon Shahi',
 		cover: '../images/t1.jpeg',
-		post: 'FOUNDER, CEO',
+		post: 'FOUNDER',
 	},
 	{
 		id: 2,
-		title: 'Ashwin Shrestha',
-		cover: '../images/t2.png',
-		post: 'IT HEAD',
-	},
-	{
-		id: 3,
 		title: 'Bishal Rijal',
 		cover: '../images/t3.jpg',
 		post: 'SEO DIRECTOR',
+	},
+	{
+		id: 3,
+		title: 'Ashwin Shrestha',
+		cover: '../images/t2.png',
+		post: 'WEB DEVELOPER',
 	},
 	{
 		id: 4,
@@ -254,6 +227,18 @@ export const teamdata = [
 		id: 5,
 		title: 'Ujjal Shrestha',
 		cover: '../images/t5.jpg',
-		post: 'CREATIVE DIRECTOR',
+		post: 'CREATIVE MANAGER',
+	},
+	{
+		id: 6,
+		title: 'Utsav',
+		cover: '../images/t6.jpg',
+		post: 'PROGRAMMER',
+	},
+	{
+		id: 7,
+		title: 'Tapan Mishra',
+		cover: '../images/t7.jpg',
+		post: 'PHOTOGRAPHY DIRECTOR',
 	},
 ]

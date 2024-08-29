@@ -121,12 +121,34 @@ body {
 .mb {
 	margin-bottom: 200px;
 }
+.case-study-details {
+	margin-top: 30px;
+	font-size:18px;
+	letter-spacing: 3px;
+	color:rgb(181, 181, 181);
+}
+.brand-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap:100px;
+}
+.brand-content div {
+	max-width:300px;
+	max-height:200px;
+	filter: grayscale(1);
+}
 .showcase {
 	.card-img {
 		height: 400px;
 	}
 	.links {
 		@include flex(none, flex-end, none);
+	}
+}
+@media screen and (max-width: 700px) {
+	.brand-content {
+		gap:30px;
 	}
 }
 
