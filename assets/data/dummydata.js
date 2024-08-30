@@ -218,7 +218,7 @@ export const teamdata = [
 	{
 		id: 2,
 		title: 'Bishal Rijal',
-		cover: '../images/t3.jpg',
+		cover: '../images/t3.png',
 		post: 'SEO DIRECTOR',
 	},
 	{
