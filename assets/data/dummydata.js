@@ -248,7 +248,7 @@ export const teamdata = [
 	{
 		id: 7,
 		title: 'Tapan Mishra',
-		cover: '../images/t7.jpg',
+		cover: '../images/t7.png',
 		post: 'PHOTOGRAPHY DIRECTOR',
 	},
 ]
