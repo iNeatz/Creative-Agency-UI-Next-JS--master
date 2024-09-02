@@ -76,6 +76,26 @@ export const expertise = [
 			{ text: 'Custom illustrations' },
 		],
 	},
+	{
+		id: 6,
+		title: 'Brand Development',
+		cover: '../images/e4.jpg',
+		desc: [
+			{ text: 'Identity Creation' },
+			{ text: 'Target audience connection' },
+			{ text: 'Consistent Communication' },
+		],
+	},
+	{
+		id: 7,
+		title: 'Customer Acquisition and Retention',
+		cover: '../images/e4.jpg',
+		desc: [
+			{ text: 'Targeted Marketing' },
+			{ text: 'Value Proposition' },
+			{ text: 'Multi-Channel Approach' },
+		],
+	},
 ]
 export const testimonial = [
 	{
@@ -238,12 +258,6 @@ export const teamdata = [
 		title: 'Ujjal Shrestha',
 		cover: '../images/t5.jpg',
 		post: 'CREATIVE MANAGER',
-	},
-	{
-		id: 6,
-		title: 'Utsav',
-		cover: '../images/t6.jpg',
-		post: 'EDITOR',
 	},
 	{
 		id: 7,
